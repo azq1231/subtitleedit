@@ -175,7 +175,7 @@ Command line: {1} {2}
     <ImageName>圖片名稱 ({0}x{1}):</ImageName>
     <IconName>圖示名稱:</IconName>
     <FontName>字型名稱:</FontName>
-    <ImageResized>Image resized to fit current window</ImageResized>
+    <ImageResized>圖片已調整大小以符合目前視窗</ImageResized>
     <FilesSkippedX>Files skipped: {0}</FilesSkippedX>
     <RemoveOneAttachment>Remove one attachment?</RemoveOneAttachment>
     <RemoveXAttachments>Remove {0} attachments?</RemoveXAttachments>
